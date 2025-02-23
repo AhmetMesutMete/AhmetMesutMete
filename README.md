@@ -45,3 +45,9 @@
 ## 📫 Connect With Me  
 📩 **Email:** ahmet_mesut97@hotmail.com  
 💼 [**LinkedIn**](https://www.linkedin.com/in/ahmetmesutmete) | 🐙 [**GitHub**](https://github.com/AhmetMesutMete)  
+
+---
+[![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetMesutMete&count_private=true&show_icons=true&theme=onedark&hide_rank=false&include_all_commits=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
