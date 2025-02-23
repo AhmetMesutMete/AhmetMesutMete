@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hey there! I'm Ahmet Mesut
+🎓 Studied: Electronics and Telecommunications Engineering at Poznań University of Technology
+💻 Experience: Former Software Engineer, currently freelancing while working in another field
+🚀 Goal: Transitioning into a full-time Software Engineering positions
+📈 Tech Enthusiast: Passionate about full-stack development, problem-solving, and automation
 
-<!--
-**AhmetMesutMete/AhmetMesutMete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I’m Working On
+🔹 Freelance projects in Python & backend development
+🔹 Expanding my skills in Django, FastAPI, and databases
+🔹 Building small projects & contributing to open source
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Skills
+🚀 Programming Languages:
+🐍 Python – Preferred for backend development (Django, FastAPI, Flask)
+☕ Java – Experienced with Spring Boot and object-oriented programming
+🔷 C++ – Strong foundation in algorithms & competitive programming
+⚡ JavaScript – Used in frontend & backend (Node.js) development
+🌐 HTML & CSS – Structuring and styling web applications
+🐹 Golang – Exploring for high-performance backend services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Backend & Frameworks:
+Python: Django, FastAPI, Flask
+Java: Spring Boot
+C++: STL, Competitive Programming
+💾 Databases & Tools:
+PostgreSQL, MySQL, MongoDB
+Docker, Git, Linux, CI/CD
+
+📌 Goals for 2025
+✅ Master Python backend development
+✅ Contribute to open-source projects
+✅ Transition into a full-time software engineering role
+
+📫 Connect With Me
+📩 Email: ahmet_mesut97@hotmail.com
+💼 [Linkedin](https://www.linkedin.com/in/ahmetmesutmete) | 🐙 [GitHub](https://github.com/AhmetMesutMete)
